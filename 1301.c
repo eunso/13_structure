@@ -12,7 +12,7 @@ struct student
  
  int main(int argc, char *argv[])
  {
- 	struct student s1={24, "EUNSONG",3.5
+ 	struct student s1={24, "EUNSONG",3.5};
  		return 0;
 	 }
  
